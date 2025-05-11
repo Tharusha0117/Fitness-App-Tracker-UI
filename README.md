@@ -1,2 +1,16 @@
-# Fitness-App-Tracker-UI
-The Fitness App Daily Tracker allows users to track their steps, calories, and sleep with interactive circular progress bars. The app features a dynamic gradient background, neumorphic card designs, and smooth animations for a visually appealing and engaging experience, motivating users to reach their fitness goals.
+# fitnessapp
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
